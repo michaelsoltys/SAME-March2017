@@ -1,4 +1,4 @@
-## SAME Conference
+## SAME Cybersecurity talk
 ### March 23, 2017
 ### Michael Soltys
 
