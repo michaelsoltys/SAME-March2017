@@ -1,5 +1,5 @@
 #!/bin/sh
-#
+# Michael Soltys, March 2, 2017
 # usage: retrieve-cert.sh <remote.host.naem> [port]
 #
 REMHOST=$1
