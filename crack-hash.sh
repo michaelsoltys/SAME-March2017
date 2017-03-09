@@ -5,8 +5,8 @@
 
 JOHN='/home/ubuntu/Crackers/JohnTheRipper/'
 
-# Create the MD5 hash of <arg> in "exm.sh <arg>"
-# and set variab HASH to it
+# Create the MD5 hash of <arg> in "crack-hash.sh <arg>"
+# and set variable HASH to it
 read -p "Create hash corresponding to the password:"
 HASH="$(echo -n $1 | md5sum | awk '{print $1;}')"
 
